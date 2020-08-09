@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fee"
+        android:icon="@drawable/ic_fee"
+        android:title="Fees"
+        android:checked="true"
+        android:iconTint="@color/white"
+        />
+    <item
+        android:id="@+id/routine"
+        android:icon="@drawable/ic_calendar"
+        android:title="Routine"
+        android:iconTint="@color/white"
+
+
+        />
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Subject"/>
+
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_promotion"
+        android:title="Notification"
+        android:iconTint="@color/white"
+        />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_man"
+        android:title="Profile"
+        android:iconTint="@color/white"
+
+        />
+
+</menu>
